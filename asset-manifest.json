@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Slatemates/static/css/main.fffee55a.chunk.css",
+    "main.css": "/Slatemates/static/css/main.784a74c3.chunk.css",
     "main.js": "/Slatemates/static/js/main.1fffbbc3.chunk.js",
     "main.js.map": "/Slatemates/static/js/main.1fffbbc3.chunk.js.map",
     "runtime-main.js": "/Slatemates/static/js/runtime-main.5e4a7a27.js",
@@ -10,13 +10,13 @@
     "static/js/3.b0d268a8.chunk.js": "/Slatemates/static/js/3.b0d268a8.chunk.js",
     "static/js/3.b0d268a8.chunk.js.map": "/Slatemates/static/js/3.b0d268a8.chunk.js.map",
     "index.html": "/Slatemates/index.html",
-    "static/css/main.fffee55a.chunk.css.map": "/Slatemates/static/css/main.fffee55a.chunk.css.map",
+    "static/css/main.784a74c3.chunk.css.map": "/Slatemates/static/css/main.784a74c3.chunk.css.map",
     "static/js/2.fdb90228.chunk.js.LICENSE.txt": "/Slatemates/static/js/2.fdb90228.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5e4a7a27.js",
     "static/js/2.fdb90228.chunk.js",
-    "static/css/main.fffee55a.chunk.css",
+    "static/css/main.784a74c3.chunk.css",
     "static/js/main.1fffbbc3.chunk.js"
   ]
 }
