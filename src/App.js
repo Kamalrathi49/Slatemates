@@ -15,31 +15,27 @@ const App = () => {
           <div className="col">
             <h1>IGCSE - Mathematics</h1>
             <ul>
-              <li>About</li>
-              <li>Mission</li>
-              <li>Services</li>
-              <li>Social</li>
-              <li>Get in touch</li>
+              <li>Mathematics Core/Extended </li>
+              <li>International Mathematics </li>
+              <li>Additional Mathematics</li>
+             
             </ul>
           </div>
           <div className="col">
             <h1>AS-A level</h1>
             <ul>
-              <li>About</li>
-              <li>Mission</li>
-              <li>Services</li>
-              <li>Social</li>
-              <li>Get in touch</li>
+              <li>Mathematics 9709</li>
+              <li>Mathematics Further 9231</li>
+             
             </ul>
           </div>
           <div className="col">
             <h1>IBDP</h1>
             <ul>
-              <li>About</li>
-              <li>Mission</li>
-              <li>Services</li>
-              <li>Social</li>
-              <li>Get in touch</li>
+              <li>Mathematics AA SL</li>
+              <li>Mathematics AA HL</li>
+              <li>Mathematics AI SL</li>
+              <li>Mathematics AI HL</li>
             </ul>
           </div>
         </div>
