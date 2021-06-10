@@ -11,7 +11,9 @@ const App = () => {
       <br />
       <br />
       <div className="footer">
-          <p className="footer-heading">Cambridge & IB Mathematics Subject choice</p>
+        <p className="footer-heading">
+          Cambridge & IB Mathematics Subject choice
+        </p>
         <div className="contain">
           <div className="col">
             <h1>IGCSE - Mathematics</h1>
@@ -19,7 +21,6 @@ const App = () => {
               <li>Mathematics Core/Extended </li>
               <li>International Mathematics </li>
               <li>Additional Mathematics</li>
-             
             </ul>
           </div>
           <div className="col">
@@ -27,7 +28,6 @@ const App = () => {
             <ul>
               <li>Mathematics 9709</li>
               <li>Mathematics Further 9231</li>
-             
             </ul>
           </div>
           <div className="col">
