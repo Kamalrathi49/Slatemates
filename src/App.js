@@ -1,25 +1,51 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
-function App() {
+import "./App.scss";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <div className="header">
+        <h1 className="title">Very very Carefully Chosen Tutors</h1>
+      </div>{" "}
+      <br />
+      <br />
+      <div className="footer">
+        <div className="contain">
+          <div className="col">
+            <h1>IGCSE - Mathematics</h1>
+            <ul>
+              <li>About</li>
+              <li>Mission</li>
+              <li>Services</li>
+              <li>Social</li>
+              <li>Get in touch</li>
+            </ul>
+          </div>
+          <div className="col">
+            <h1>AS-A level</h1>
+            <ul>
+              <li>About</li>
+              <li>Mission</li>
+              <li>Services</li>
+              <li>Social</li>
+              <li>Get in touch</li>
+            </ul>
+          </div>
+          <div className="col">
+            <h1>IBDP</h1>
+            <ul>
+              <li>About</li>
+              <li>Mission</li>
+              <li>Services</li>
+              <li>Social</li>
+              <li>Get in touch</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   );
-}
+};
 
 export default App;
