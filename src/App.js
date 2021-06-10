@@ -11,6 +11,7 @@ const App = () => {
       <br />
       <br />
       <div className="footer">
+          <p className="footer-heading">Cambridge & IB Mathematics Subject choice</p>
         <div className="contain">
           <div className="col">
             <h1>IGCSE - Mathematics</h1>

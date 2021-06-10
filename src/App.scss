@@ -45,6 +45,18 @@
   }
 }
 
+.footer-heading {
+  font-size: 22px;
+  background-color: rgb(248, 207, 102);
+  width: 65%;
+  margin-left: 100px;
+
+  @media screen and (max-width: 500px) {
+    margin-left: 15px;
+    width: 90%;
+  }
+}
+
 .contain {
   display: flex;
   flex-direction: row;
